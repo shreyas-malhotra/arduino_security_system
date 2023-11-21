@@ -1,0 +1,7 @@
+Arduino Uno
+Half Breadboard
+SG90 Servo Motor
+Buzzer
+PIR Sensor
+4X4 Matrix Keypad
+Jumper Wires
